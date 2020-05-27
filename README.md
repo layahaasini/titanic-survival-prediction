@@ -1,2 +1,2 @@
-# titanic-survival-prediction
+# Titanic Survival Prediction 🚢
 A simple neural network architecture to predict the survival of Titanic passengers based on personal information (sex, age, etc).
